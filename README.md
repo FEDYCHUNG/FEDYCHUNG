@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fedy. 
 
-** A Software Engineer **
+**` A Software Engineer `**
 
 <!--
 **FEDYCHUNG/FEDYCHUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
